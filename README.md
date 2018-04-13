@@ -1,1 +1,1 @@
-# ifyouwereaparrot
+# Open the Jupyter notebook.
